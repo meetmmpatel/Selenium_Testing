@@ -1,0 +1,10 @@
+
+Types Of Locators
+
+	1. ID
+	2. Name
+	3. CSS Selectors
+	4. xPath
+	5. Tag Name
+	6. LinkText, Partial Link
+	7. Class name

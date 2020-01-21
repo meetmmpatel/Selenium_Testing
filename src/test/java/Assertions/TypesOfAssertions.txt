@@ -1,0 +1,24 @@
+
+
+About Assertions and what it will do when you add 
+into your code
+
+Assertions class that you can use when you want 
+to compare two java objects... can be two variables
+or methods or class objects.
+
+Types of Assertions provides by TestNG
+
+	1. assertEquals
+	2. assertNotEquals
+	3. assertTrue
+	4. assertFalse
+	5. assertNull
+	6. assertNotNull
+	7. assertArrayEquals
+
+
+
+
+
+

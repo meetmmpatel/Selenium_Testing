@@ -1,0 +1,12 @@
+
+Test NG Annotations and When to use which one??
+
+ - All testng annotations are only user on top of method
+ 
+  1. @Test (required)
+      - Run the below functions as test function and provide 
+        pass of fail status.
+      
+  2. @BeforeAll
+      - This annotations will run before all the test and class 
+        function run.  
